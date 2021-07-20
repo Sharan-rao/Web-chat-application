@@ -1,0 +1,34 @@
+﻿.col-md-2, .col-md-3, .col-md-4 {
+    text-align: right;
+}
+
+.containers {
+    margin-top: 50px;
+}
+
+label {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2, h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.ui-datepicker-month, .ui-datepicker-year {
+    color: Black;
+    background: #FFF;
+}
+
+.form-control {
+    border: 1px solid !important;
+    border-radius:0px !important;
+}
+
+table {
+    font-size: 14px;
+    font-family: Calibri;
+}
